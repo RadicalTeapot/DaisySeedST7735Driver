@@ -1,0 +1,14 @@
+{
+    "cSpell.words": [
+        "ADENV",
+        "daisysp",
+        "fclamp",
+        "fmap",
+        "graindelay",
+        "SDRAM"
+    ],
+    "files.associations": {
+        "chrono": "cpp",
+        "random": "cpp"
+    }
+}
